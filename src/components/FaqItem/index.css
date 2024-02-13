@@ -1,0 +1,19 @@
+/* Write your code here. */
+.list-item {
+  width: 100%;
+  border: 1px solid #d7dae6;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  padding: 16px;
+}
+.text-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.images {
+  text-align: right;
+  background: transparent;
+  border-width: 0;
+}

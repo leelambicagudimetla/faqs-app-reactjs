@@ -1,0 +1,23 @@
+/* Write your code here. */
+.main-div {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+}
+.white-div {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.un-list-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
